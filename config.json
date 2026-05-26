@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "autheetch",
+        "uuid": 8556460,
+        "checksum": "3tcdpo"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
